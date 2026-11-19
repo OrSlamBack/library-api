@@ -1,0 +1,17 @@
+﻿# Виртуальное окружение
+.venv/
+
+# Служебные файлы IDE (PyCharm, Visual Studio)
+.idea/
+.vs/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# База данных
+library.db
+*.sqlite
+
+# Настройки окружения (секреты)
+.env
